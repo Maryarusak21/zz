@@ -1,0 +1,33 @@
+.j{
+  margin: 0 auto;
+  display: inline-table;
+  padding: 50px;
+  background-color: black;
+  border: 5px solid yellow;
+
+}
+.k{
+  margin: 0 auto;
+  text-align: center;
+  display: inline-flex;
+  padding: 50px;
+  background-color: black;
+  border: 5px solid yellow;
+
+}
+
+.l{
+  margin: 0 auto;
+  text-align: center;
+  display: inline-flex;
+  padding: 50px;
+  background-color: black;
+  border: 5px solid yellow;
+}
+.color{
+  background-color: black;
+}
+p{
+  width: 20px;
+  color: yellow;
+}
