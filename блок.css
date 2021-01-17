@@ -1,5 +1,5 @@
 .j{
-  display: inline-table;
+  display: inline-flex;
   padding: 50px;
   background-color: black;
   border: 5px solid yellow;
