@@ -1,5 +1,4 @@
 .j{
-  margin: 0 auto;
   display: inline-table;
   padding: 50px;
   background-color: black;
@@ -7,7 +6,6 @@
 
 }
 .k{
-  margin: 0 auto;
   text-align: center;
   display: inline-flex;
   padding: 50px;
@@ -17,7 +15,6 @@
 }
 
 .l{
-  margin: 0 auto;
   text-align: center;
   display: inline-flex;
   padding: 50px;
